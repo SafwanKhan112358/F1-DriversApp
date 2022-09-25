@@ -30,7 +30,7 @@ Front-End Features:
 
 API Functionality: 
 
-- user-input is validated and converted to an id that's passed to several api functions, making GET requests (using the id) to an api, and display the generated content
+- user-input is validated and converted to an id that's passed to several api functions, making GET requests (using the id) to api, and display the generated content
 
 Error and Exception Handling:
 - can handle invalid inputs, by returning a message (appears temporarily) stating that the input doesn't exist
