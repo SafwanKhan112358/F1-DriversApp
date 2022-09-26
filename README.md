@@ -38,6 +38,7 @@ Error and Exception Handling:
 
 
 
+note: to run the app, make sure to have image (.ico format) and the code running in the same directory!
 
 
 
