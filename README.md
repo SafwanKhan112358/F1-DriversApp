@@ -1,4 +1,4 @@
-# F1_2022_Drivers_App
+# F1_Drivers_App
 An app that lets users search a driver from the F1 2022 season, receive all-time statistics for the driver and relevant stats for the current season
 
 - App is made using Python, Tkinter, and requests(HTTP library)
